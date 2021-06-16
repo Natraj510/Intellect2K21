@@ -70,8 +70,8 @@ header {
     min-height: 100vh;
 
     background-size:cover;
-    background: #0e1021
-    url(hero_1a.jpg) center/cover no-repeat!important;
+    background: linear-gradient(rgba(173, 169, 169, 0), rgba(0, 0, 0, 0.7)),
+    url(background.jpg) center/cover no-repeat!important;
     
 }
 
